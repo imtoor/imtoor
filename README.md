@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imtoor
-- 👀 I’m interested in Algorithm & DS, MERN,
-- 🌱 I’m currently learning NextJS, GatsbyJS
-- 💞️ I’m looking to collaborate on Front / Back End, Mobile, DevOps
+- 👀 I’m interested in Algorithm & DS, AI,
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Back End, Mobile, DevOps
 - 📫 Reach me at techg247@gmail.com
 
 <!---
