@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imtoor
 - 👀 I’m interested in Algorithm & DS
-- 🌱 I’m currently learning Golang & ReactJS
+- 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on a Project
 - 📫 Reach me at techg247@gmail.com
 
